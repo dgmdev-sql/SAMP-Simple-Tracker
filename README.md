@@ -11,7 +11,7 @@ A lightweight SA-MP Lua script to track player actions and job completions.
 
 ## Download
 
-- Install the mod in this **[link](https://your-download-link-here.com](https://mega.nz/file/28IwHbDC#q08OzvTsOuPr8-G0LrEdOwV6oc98NOjlS9FJfSvnH0k))**.
+- Install the mod in this **[link](https://mega.nz/file/28IwHbDC#q08OzvTsOuPr8-G0LrEdOwV6oc98NOjlS9FJfSvnH0k)**.
 
 ## Installation
 

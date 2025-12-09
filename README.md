@@ -16,8 +16,7 @@ A lightweight SA-MP Lua script to track player actions and job completions.
 ## Installation
 
 1. Place `simple_tracker.lua` in your SA-MP `moonloader` folder.
-2. Ensure `samp.events` is installed.
-3. Run `/trackhelp` in-game for command list.
+2. Ensure `libraries` are installed.
 
 ## Commands
 
